@@ -1,6 +1,6 @@
 # Data Visualizations for the Tacoma Estimator
 
-The Flask web framework was used to build the [homepage](http://github.com) and
+The Flask web framework was used to build the [homepage](https://github.com/krishnil/project) and
 the Dash framework was used to build the visualizations page.
 
 The visualizations show how the factors and specifications of the vehicle influence its price.
